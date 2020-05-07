@@ -1,3 +1,8 @@
 /basics/data/
 .gitignore
 /basics/.ipynb_checkpoints/
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/pytorch_tutorials.iml
+.idea/vcs.xml
