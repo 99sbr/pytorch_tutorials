@@ -6,4 +6,5 @@
 .idea/modules.xml
 .idea/pytorch_tutorials.iml
 .idea/vcs.xml
-/basics/data/
+/basics/data/*
+
