@@ -1,5 +1,4 @@
 /basics/data/
-.gitignore
 /basics/.ipynb_checkpoints/
 .idea/inspectionProfiles/
 .idea/misc.xml
@@ -7,4 +6,5 @@
 .idea/pytorch_tutorials.iml
 .idea/vcs.xml
 /basics/data/*
-
+basics/ants_and_bees/
+basics/data/.DS_Store
